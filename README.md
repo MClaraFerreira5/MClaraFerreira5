@@ -94,7 +94,7 @@
       <div class="tech-item">React</div>
       <div class="tech-item">Jetpack Compose</div>
     </div>
-    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Tecnologias" class="gif">
+    
   </section>
 
   <section>
