@@ -25,7 +25,7 @@
 
 ### 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=claradev&theme=radical&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradev&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MClaraFerreira5&theme=radical&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MClaraFerreira5&layout=compact&theme=radical&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
