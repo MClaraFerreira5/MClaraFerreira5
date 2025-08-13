@@ -14,7 +14,7 @@
 
 ### 🚀 Minhas Habilidades
 
-#### 🐍 Python & ☕ Java
+#### 🐍 Python & ☕ Java & C++
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350" alt="Python Java Code">
 #### 🌐 JavaScript, HTML & CSS
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="350" alt="JS HTML CSS Frontend">
