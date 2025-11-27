@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=500&lines=Olá%2C+me+chamo+Clara+Ferreira.;Sou+Estudante+de+Engenharia+da+Computação.;Focada+em+Desenvolvimento+Front-end+e+IA.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=500&lines=Olá%2C+me+chamo+Clara+Ferreira.;Sou+Estudante+de+Engenharia+da+Computação.;Focada+em+Front-end%2C+Mobile+e+IA.)](https://git.io/typing-svg)
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> 
   <em>"A ciência da programação é uma arte que exige imaginação" – Ada Lovelace</em>
@@ -13,9 +13,9 @@
 ### 👩‍💻 Sobre Mim
 
 - 🎓 **Engenharia da Computação** – Estudante apaixonada por transformar linhas de código em soluções reais.
+- 🎨 **Front-end & Mobile Developer** – Experiência criando interfaces com **React**, **Flutter** e **Kotlin**.
 - 🔭 **Atualmente trabalhando em:** Projetos de **IA** (Machine Learning) e **Redes de Computadores**.
-- 💡 **Interesses:** Desenvolvimento Web, Arquitetura de Computadores e Hardware Design.
-- 🌱 **Aprendendo:** Aprofundando conhecimentos em algoritmos de classificação e arquitetura TCP/IP.
+- 💡 **Interesses:** Desenvolvimento Web/Mobile, Arquitetura de Computadores e Hardware Design.
 
 ---
 
@@ -28,8 +28,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-#### 🎨 Front-end & Web
+#### 📱 Front-end & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
