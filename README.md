@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=500&lines=Olá%2C+me+chamo+Clara+Ferreira.;Sou+Estudante+de+Engenharia+da+Computação.;Focada+em+Front-end%2C+Mobile+e+IA.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&weight=600&width=500&lines=Olá%2C+me+chamo+Clara+Ferreira.;Sou+Estudante+de+Engenharia+da+Computação.;Focada+em+Front-end%2C+Mobile+e+IA.)](https://git.io/typing-svg)
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> 
   <em>"A ciência da programação é uma arte que exige imaginação" – Ada Lovelace</em>
